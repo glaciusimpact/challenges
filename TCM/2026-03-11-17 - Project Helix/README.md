@@ -557,7 +557,7 @@ I spent a lot of time here and I did not know what to do. I used a "gold fingers
 1. I use "ZOOM" button and move it to around middle position (in direction of the top of the screen)
 2. Then I use "RADIO FREQ" button to get XXXX.8 or XXXX.3 (it worked with 205.3 Hz and 184.3 Hz)
 3. Then I use "ZOOM" button and move it to its max value (on the bottom right). Now "RADIO FREQ" button displays always frequencies increased by sometimes +/-0.5 or often +/-1.0 and rarely +/- 2.0
-4. Then I use "RADIO FREQ" button to get "3817.3" (now you only have values ending with XXXX.3 or XXXX.8). In case you get "3817.8" then repeat the process from step 1 and use XXXX.3 on step 2 instead of XXXX.8. In case 3817.X does not appear you have to restart from the beginning too. Unfortunately this not a 100% garanty techniques.
+4. Then I use "RADIO FREQ" button to get "3817.3" (now we only have values ending with XXXX.3 or XXXX.8). In case we get "3817.8" then we have to repeat the process from step 1 and use XXXX.3 in step 2 instead of XXXX.8. In case 3817.X does not appear you have to restart from the beginning too. Unfortunately this not a 100% garanty technique.
 - Now I can hear a sound. (beep beep)
 - I use the "REC" button and got a file: SIG_INT_1773292241223.webm
 
