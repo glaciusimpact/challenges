@@ -1,6 +1,6 @@
 # Presentation
 
-On March 2026, TCM Security organized a Blue Team CTF. This first time TCM Blue Team CTF designed by [MalwareCube](https://github.com/malwarecube) was available on this link:
+On March 2026, TCM Security organized a Blue Team CTF. This first time TCM Blue Team CTF designed by [MalwareCube](https://github.com/malwarecube) was made to test our forensics skills.
 
 Link of the event:
 
